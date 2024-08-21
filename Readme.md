@@ -1,16 +1,18 @@
 # Ebook sobre como realizar pinturas em edificações
 
 ## 📒 Descrição
-Descrever boas práticas de execução de pintura através de um EBOOK com conteudo gerado por IAs
+Descrever boas práticas de execução de pintura através de um EBOOK onde o seu conteudo foi gerado por IAs
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização;
+- IA Generativa **[Leonardo AI](https://leonardo.ai)** para criar a arte visual do e-book;
+- Ferramenta **Libre Office** para edição.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Utilizei o ChatGPt para gerar o roteiro do EBOOK e também todo o conteúdo do passo a passo para uma boa execução de pinturas. Utilizeri o Leonardo para gerar algumas imagens, estas ilustram os serviços descritos no roteiro. Por fim, o Libre Office foi utilizado como uma ferramenta open-source, onde é possível a edição de texto e uma visualização geral do EBOOK produzido.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O Ebook foi produzido e explica de forma suscinta o passo a passo para execução eficiente de pintura, com isto é possíovel se ter um conhecimento geral de como trabalhar em serviços de pintura.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Criar este ebook foi muito interessante uma vez que mesclei conhecimentos da minha formação atual com os conhecimentos adquiridos no curso da DIO.
