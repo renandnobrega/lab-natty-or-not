@@ -6,6 +6,7 @@ Descrever boas práticas de execução de pintura através de um EBOOK onde o se
 ## 🤖 Tecnologias Utilizadas
 - IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização;
 - IA Generativa **[Leonardo AI](https://leonardo.ai)** para criar a arte visual do e-book;
+- IA Generativa **[photoroom](https://www.photoroom.com/)** para editar texto na arte visual;
 - Ferramenta **Libre Office** para edição.
 
 ## 🧐 Processo de Criação
