@@ -10,7 +10,7 @@ Descrever boas práticas de execução de pintura através de um EBOOK onde o se
 - Ferramenta **Libre Office** para edição.
 
 ## 🧐 Processo de Criação
-Utilizei o ChatGPt para gerar o roteiro do EBOOK e também todo o conteúdo do passo a passo para uma boa execução de pinturas. Utilizeri o Leonardo para gerar algumas imagens, estas ilustram os serviços descritos no roteiro. Por fim, o Libre Office foi utilizado como uma ferramenta open-source, onde é possível a edição de texto e uma visualização geral do EBOOK produzido.
+Utilizei o ChatGPt para gerar o roteiro do EBOOK e também todo o conteúdo do passo a passo para uma boa execução de pinturas. Utilizei o Leonardo para gerar a imagem da capa e depois usei o photoroom para editar o texto na imagem. Por fim, o Libre Office foi utilizado como uma ferramenta open-source, onde é possível a edição de texto e uma visualização geral do EBOOK produzido.
 
 ## 🚀 Resultados
 O Ebook foi produzido e explica de forma suscinta o passo a passo para execução eficiente de pintura, com isto é possíovel se ter um conhecimento geral de como trabalhar em serviços de pintura.
