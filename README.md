@@ -14,6 +14,7 @@ Utilizei o ChatGPt para gerar o roteiro do EBOOK e também todo o conteúdo do p
 
 ## 🚀 Resultados
 O Ebook foi produzido e explica de forma suscinta o passo a passo para execução eficiente de pintura, com isto é possíovel se ter um conhecimento geral de como trabalhar em serviços de pintura.
+[LINK PARA O VÍDEO AQUI](https://1drv.ms/u/s!AmZkCz5UscS21EtSy6fQQ09sz1fh?e=oBDYpI)
 
 ## 💭 Reflexão (Opcional)
 Criar este ebook foi muito interessante uma vez que mesclei conhecimentos da minha formação atual com os conhecimentos adquiridos no curso da DIO.
